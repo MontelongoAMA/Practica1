@@ -1,2 +1,3 @@
 # Practica1
-Vita del funcionamiento del repositorio.
+Vista del funcionamiento del repositorio.
+Primera edición
